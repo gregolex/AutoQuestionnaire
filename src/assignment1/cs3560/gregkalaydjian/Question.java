@@ -1,9 +1,9 @@
-package assignment1.cs3560.gregkalaydjian;
+package *PACKAGE_NAME*;
 
 public class Question 
 {
     //This method will return a String array of different questions
-    //* Instead of predefined questions, we can make an array based off of user input and use the array. *
+    //* Instead of predefined questions, we can make an array based off of user input and use the user input array. *
     //* As specified in the project requirements *
     protected static String[] questionList(int amountOfQuestions)
         {
