@@ -1,4 +1,4 @@
-package assignment1.cs3560.gregkalaydjian;
+package *PACKAGE_NAME*;
 import java.util.*;
 import java.io.*;
 
